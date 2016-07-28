@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Instagram</string>
+
+    <string name="CLIENT_ID">72db96229b694b7ab25f15576ba4d895</string>
+    <string name="CLIENT_SECRET">3b2c984102024d4a90c92c1b00b97e6b</string>
+    <string name="REDIRECT_URI">http://zadanieschool.esy.es/</string>
+
+</resources>
